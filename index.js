@@ -1,3 +1,4 @@
  const name ="jack";
- const age = 27
+ const age = 27;
+ 
 
